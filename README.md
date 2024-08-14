@@ -1,6 +1,4 @@
-# Vue 3 + Vite
-
-Green-API test
+# Green-API test
 
 Для запуска:
 ```

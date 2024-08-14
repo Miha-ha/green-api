@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@green-api/whatsapp-api-client": "^0.3.39",
-    "element-plus": "^2.8.0",
     "pinia": "^2.2.1",
     "vue": "^3.4.35",
     "vue-loading-overlay": "^6.0.4"

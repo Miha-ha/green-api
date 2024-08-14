@@ -6,11 +6,6 @@ import { useApiStore } from '@/store/api'
 
 const api = useApiStore()
 
-api.idInstance = '1103102936'
-api.apiTokenInstance = 'c33f241bde3e4fafa5af804e238dad74df86c177db31496285'
-api.phone = '79883204191'
-api.message = 'hi'
-api.fileURL = 'https://img.freepik.com/premium-photo/cartoon-heart-with-smile-smile-that-says-heart_900101-17908.jpg'
 </script>
 
 <template>  
